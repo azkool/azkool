@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azkool
 - 👀 I’m interested in becaming a full stack developer
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on learner focused project
 - 📫 You can reach me on azkooinfo@gmail.com
 
